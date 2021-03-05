@@ -1,5 +1,5 @@
-﻿//........HEXRAZE | GitHub:https://github.com/Barracuda1900 | Discord:barracuda#1479 | Telegram:@barracuda1999 | VK:https://vk.com/hexraze | site:https://hexraze.ru
-//........04.03.2021 C++ ISO 14 
+﻿//........HEXRAZE | From GitHub:https://github.com/Barracuda1900/HexrazeMemoryMacro_Rust
+//........04.03.2021 C++ ISO 14
 
 #include <windows.h>
 #include <TlHelp32.h>

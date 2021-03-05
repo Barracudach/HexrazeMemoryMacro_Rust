@@ -1,3 +1,5 @@
+//........HEXRAZE | From GitHub:https://github.com/Barracuda1900/HexrazeMemoryMacro_Rust
+//........04.03.2021 C++ ISO 14
 #include "process.h"
 
 
