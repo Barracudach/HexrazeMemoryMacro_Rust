@@ -1,3 +1,5 @@
+//........HEXRAZE | From GitHub:https://github.com/Barracuda1900/HexrazeMemoryMacro_Rust
+
 #include "mouse.h"
 
 float aim_coef = 1;

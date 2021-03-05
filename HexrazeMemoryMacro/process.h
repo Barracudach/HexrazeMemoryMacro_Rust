@@ -1,3 +1,5 @@
+//........HEXRAZE | From GitHub:https://github.com/Barracuda1900/HexrazeMemoryMacro_Rust
+
 #pragma once
 #include <windows.h>
 #include <tlhelp32.h>
