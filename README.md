@@ -1,6 +1,6 @@
 ![GitHub](logo_site.png)
 
-[**Предпросмотр на YouTube**](https://www.youtube.com/watch?v=zSc4mG9pOYI&ab_channel=zaRRubin)
+[**Предпросмотр на YouTube**](https://youtu.be/I2QdjsUjX2o)
 
 ## О проекте
   
