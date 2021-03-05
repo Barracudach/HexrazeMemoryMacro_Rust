@@ -19,7 +19,7 @@
     <ClCompile Include="mouse.cpp">
       <Filter>source\mouse</Filter>
     </ClCompile>
-    <ClCompile Include="MemMacro.cpp">
+    <ClCompile Include="HexrazeMemoryMacro.cpp">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>

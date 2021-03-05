@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MemMacro.cpp" />
+    <ClCompile Include="HexrazeMemoryMacro.cpp" />
     <ClCompile Include="mouse.cpp" />
     <ClCompile Include="process.cpp" />
   </ItemGroup>

@@ -188,8 +188,7 @@ int main()
 
 		}
 		std::cout << "Loaded" << std::endl;
-		std::cout << "Use VK_UP and VK_DOWN to change coefficient(example 18.7 for ak47 and lr300)" << std::endl;
-
+		std::cout << "Use VK_UP and VK_DOWN to change coefficient" << std::endl;
 		static float coeff = 18.7f;
 		set_game_param(1, 90.0);
 		set_macro_param(1, 90.0);
