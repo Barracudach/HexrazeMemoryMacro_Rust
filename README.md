@@ -1,6 +1,6 @@
 ![GitHub](logo_site.png)
 
-[**Предпросмотр на YouTube**](https://youtu.be/smiiNJZc-g0)
+[**-> Предпросмотр на YouTube <-**](https://youtu.be/smiiNJZc-g0)
 
 ## О проекте
   
