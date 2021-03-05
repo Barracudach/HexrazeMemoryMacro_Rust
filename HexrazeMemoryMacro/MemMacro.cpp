@@ -190,15 +190,16 @@ int main()
 		std::cout << "Loaded" << std::endl;
 		std::cout << "Use VK_UP and VK_DOWN to change coefficient(example 18.7 for ak47 and lr300)" << std::endl;
 
+		static float coeff = 18.7f;
 		set_game_param(1, 90.0);
 		set_macro_param(1, 90.0);
-		set_aim_param(18.7f);
+		set_aim_param(coeff);
 		while (true)
 		{
 			my_sleep(1);
 
 
-			static float coeff = 18.7f;
+			
 			if (GetAsyncKeyState(VK_UP) & 0x8000)
 			{
 				coeff += 0.1f;
@@ -274,6 +275,7 @@ inline void my_sleep(int durationMS)
 
 inline void record(DWORD64 PlayerInput, Vector2* macro)
 {
+	timeBeginPeriod(1);
 	Vector2 old_angle = { 0.0f,0.0f };
 
 	for (int i = 0; i < max_size_macro; i++)
@@ -299,6 +301,7 @@ inline void record(DWORD64 PlayerInput, Vector2* macro)
 
 	}
 	std::cout << "record success" << std::endl;
+	timeEndPeriod(1);
 }
 
 inline void play(Vector2* macro)
