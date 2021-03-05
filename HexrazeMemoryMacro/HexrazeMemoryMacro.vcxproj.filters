@@ -13,14 +13,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MemMacro.cpp">
-      <Filter>source</Filter>
-    </ClCompile>
     <ClCompile Include="process.cpp">
       <Filter>source\process</Filter>
     </ClCompile>
     <ClCompile Include="mouse.cpp">
       <Filter>source\mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="MemMacro.cpp">
+      <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
