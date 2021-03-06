@@ -37,7 +37,6 @@
 
 
 ## Мои контакты
-* GitHub:https://github.com/Barracuda1900
 * Discord:barracuda#1479
 * Telegram:@barracuda1999
 * VK:https://vk.com/hexraze
