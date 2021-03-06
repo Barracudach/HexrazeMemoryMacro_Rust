@@ -60,7 +60,7 @@ inline void play(Vector2* macro);
 std::string get_module_path();
 
 //Global var
-#define oBaseNetworkable 50303664 // BaseNetworkable_c*
+#define oBaseNetworkable 50320776 // BaseNetworkable_c*
 #define max_size_macro 4500 //максимальный размер макроса
 int time_sleep = 5; //задержки в ms .Тут нет смысла ставить слишком маленькое значение,потому что сама игра неспособна с такой периодичностью обновлять кадры
 Vector2* macro = new Vector2[max_size_macro];
