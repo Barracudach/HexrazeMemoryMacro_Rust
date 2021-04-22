@@ -60,7 +60,7 @@ inline void play(Vector2* macro);
 std::string get_module_path();
 
 //Global var
-#define oBaseNetworkable 50320776 // BaseNetworkable_c*
+#define oBaseNetworkable 50746928 // BaseNetworkable_c*
 #define max_size_macro 4500 //максимальный размер макроса
 int time_sleep = 5; //задержки в ms .Тут нет смысла ставить слишком маленькое значение,потому что сама игра неспособна с такой периодичностью обновлять кадры
 Vector2* macro = new Vector2[max_size_macro];
@@ -106,7 +106,7 @@ int main()
 		DWORD64 UnityPlayerBase = process_Manager.GetModuleBaseAddress("UnityPlayer.dll");
 		DWORD64 GameAssemblyBase = process_Manager.GetModuleBaseAddress("GameAssembly.dll");
 		DWORD64 BasePlayer = find_BasePlayer(read(GameAssemblyBase + oBaseNetworkable, DWORD64));
-		DWORD64 PlayerInput = read(BasePlayer + 0x4C8, DWORD64);
+		DWORD64 PlayerInput = read(BasePlayer + 0x4D0, DWORD64);
 		while (true)
 		{
 			//Vector3 angle= read(PlayerInput + 0x64, Vector3);
