@@ -41,4 +41,3 @@
 * Discord:barracuda#1479
 * Telegram:@barracuda1999
 * VK:https://vk.com/hexraze
-* site:https://hexraze.ru
