@@ -39,5 +39,5 @@
 
 ## Мои контакты
 * Discord:barracuda#1479
-* Telegram:@barracuda1999
+* Telegram:@barracuda1900x
 * VK:https://vk.com/hexraze
