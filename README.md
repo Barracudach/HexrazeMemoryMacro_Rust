@@ -38,6 +38,6 @@
 
 
 ## Мои контакты
-* Discord:barracuda#1479
+* Discord:https://discord.gg/MvEVrMvrtV
 * Telegram:@barracuda1900x
 * VK:https://vk.com/hexraze
